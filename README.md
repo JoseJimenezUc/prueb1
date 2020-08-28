@@ -1,1 +1,2 @@
-# prueb1
+# landing-hackathon
+Pagina de ejemplo para hackathon
